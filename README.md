@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Bradv123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bradv123&count_private=true&show_icons=true&theme=transparent)
+<!-- ![Bradv123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bradv123&count_private=true&show_icons=true&theme=transparent) -->
 
 
 <!--
